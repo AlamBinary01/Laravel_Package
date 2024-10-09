@@ -1,0 +1,19 @@
+{
+    "name": "haseeb/press",
+    "description": "An elegant markdown-powered blog for the laravel framework.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Haseeb\\Press\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlaBinary01",
+            "email": "alambinary011@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^9.5"
+    }
+}
